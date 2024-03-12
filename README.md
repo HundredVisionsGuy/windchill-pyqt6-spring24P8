@@ -1,1 +1,2 @@
-# windchill-pyqt6-spring24P8
+# Windchill Calculator (Spring 24)
+by Chris Winikka
